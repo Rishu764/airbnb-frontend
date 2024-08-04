@@ -27,7 +27,7 @@ const LocationMap: React.FC = () => {
         a mesmerizing panoramic view of the Great Himalayan National Park. We
         are just 500 meters from the Deohari bus stand and strategically close
         to all the tourist destinations like Rupi Raila Waterfall, Shangarh
-        Meadow, Raila Twin Towers and Pundrik Lake.
+        Meadow, Raila Twin Towers, and Pundrik Lake.
       </p>
     </div>
   );
